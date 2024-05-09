@@ -1,0 +1,1 @@
+This is a web page of a CV(resume) made with html only. 
